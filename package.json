@@ -1,0 +1,22 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domok23/digitalent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Domok23/digitalent/issues"
+  },
+  "homepage": "https://github.com/Domok23/digitalent#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
